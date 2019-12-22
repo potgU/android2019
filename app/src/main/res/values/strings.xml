@@ -1,0 +1,41 @@
+<resources>
+    <!-- Common -->
+    <string name="app_name">My Exercise Timer</string>
+    <string name="sym_plus">+</string>
+    <string name="sym_minus">-</string>
+    <string name="holder">Holder</string>
+
+    <!-- MainActivity -->
+    <string name="snackbar_permission_not_granted">애플리케이션 실행에 필요한 권한이 거부되었습니다. 앱을 종료합니다.</string>
+
+    <!-- MainFragment -->
+    <string name="tv_main_title">헬스 타이머</string>
+    <string name="btn_start_timer">타이머 시작</string>
+    <string name="btn_my_exercise">나만의 운동</string>
+    <string name="btn_do_exercise">운동하기</string>
+    <string name="btn_show_calendar">운동기록</string>
+    <string name="btn_settings">환경설정</string>
+
+    <!-- ExerciseEditFragment -->
+    <string name="tv_rest_time">휴식시간</string>
+    <string name="edit_default_rest_time">30</string>
+    <string name="btn_add">추가</string>
+    <string name="btn_start">시작</string>
+    <string name="card_tv_default_times">1</string>
+
+    <!-- TimerFragment -->
+    <string name="tv_current_exercise_rest">휴식</string>
+
+    <!-- MapFragment -->
+    <string name="snackbar_location_permission">이 앱을 실행하려면 위치 접근 권한이 필요합니다.</string>
+    <string name="snackbar_ok">확인</string>
+    <string name="dialog_title">위치 서비스 활용 동의</string>
+    <string name="dialog_content">앱을 사용하기 위해 위치 서비스 활용에 동의해야합니다.</string>
+    <string name="dialog_positive">설정</string>
+    <string name="dialog_negative">취소</string>
+
+    <!-- RouteFragment -->
+    <string name="tv_distance_title">거리</string>
+    <string name="tv_time_title">시간</string>
+    <string name="tv_calorie_title">칼로리</string>
+</resources>
